@@ -1,0 +1,18 @@
+
+[
+  {
+    "name": "BehaviorGuard",
+    "language": "Python",
+    "description": "端點行為偵測與自動化回應系統"
+  },
+  {
+    "name": "PQC Research",
+    "language": "Python / OpenSSL",
+    "description": "後量子密碼學與 TLS 封包分析研究"
+  },
+  {
+    "name": "Personal Website",
+    "language": "HTML5 / CSS / jQuery",
+    "description": "使用 GitHub Pages 建立個人網站"
+  }
+]
